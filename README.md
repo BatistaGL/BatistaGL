@@ -1,8 +1,7 @@
 Hi! I am Guilherme, a PhD in Chemistry with experience in Analytical Instrumentation, Signal Processing and Data Analysis of molecular data.
 
 I have used scripting and programming as tools for my scientific work for a while, and I decided recently that I want to focus my activities 
-on coding for applications in (analytical) instrumentation and analysis of (chemical) data. My experience as programmer is empirical, and I
-hope to bring some relevant works and projects to GitHub soon.
+on coding for applications in (analytical) instrumentation and analysis of (chemical) data.
 
 I have experience with:
 - Signal Processing of Instrumental Data;
